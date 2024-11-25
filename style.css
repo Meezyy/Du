@@ -1,15 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Londrina+Sketch&family=Rubik+Glitch&display=swap');
+
 body{
     background-color: darkgreen;
 }
 main{
     background-color: white;
     margin: auto;
-    width: 48%;
+    width: 45%;
     padding: 200px 0;
     outline: dotted 50px darkgreen;
     outline-offset: -10px;
 }
 img{
-    width: 280px;
-    height: 220px;
+    width: 220px;
+    height: 180px;
+    vertical-align: -200px;
+    max-width: fit-content;
+    padding: 29px;
+}
+h1{
+    font-family: "Imperial Script", cursive;
+    font-weight: 400;
+    font-size: 90px;
+    font-style: normal;
+    max-width: fit-content;
+    margin: auto;
+}
+ol{
+    max-width: fit-content;
+    margin: auto;
+    font-style: oblique;
 }
