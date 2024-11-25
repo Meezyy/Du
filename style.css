@@ -1,0 +1,15 @@
+body{
+    background-color: darkgreen;
+}
+main{
+    background-color: white;
+    margin: auto;
+    width: 48%;
+    padding: 200px 0;
+    outline: dotted 50px darkgreen;
+    outline-offset: -10px;
+}
+img{
+    width: 280px;
+    height: 220px;
+}
